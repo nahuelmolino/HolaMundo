@@ -1,4 +1,2 @@
 # HolaMundo
-prueba de repositorio.
-primer commit
-segundo commit
+mi primer repositorio en Github
